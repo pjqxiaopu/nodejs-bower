@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-bower",
+  "version": "0.0.0",
+  "description": "xp's first bower project",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "~3.5.2",
+    "bootstrap": "~3.3.1"
+  }
+}
